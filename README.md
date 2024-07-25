@@ -7,17 +7,17 @@ Users can post facts along with a credible source. The facts are categorized to 
 - Technology
 - Science
 - Finance
-Society
-Entertainment
-Health
-History
-News
+- Society
+- Entertainment
+- Health
+- History
+- News
 
 ### React to Facts
 Users can react to posted facts in three ways:
-Interesting: Indicate that you found the fact intriguing.
-Mind-blowing: Show that the fact was astonishing or surprising.
-False: Dispute the fact if you believe it is incorrect.
+- Interesting: Indicate that you found the fact intriguing.
+- Mind-blowing: Show that the fact was astonishing or surprising.
+- False: Dispute the fact if you believe it is incorrect.
 
 ### Filter by Category
 Users can filter facts by category to focus on their interests. By default, all facts are displayed, but users can narrow down the list to specific categories using the category filter.
@@ -29,6 +29,6 @@ Users can vote on facts to indicate their interest, astonishment, or disagreemen
 Users can add new facts by filling out a simple form, which includes fields for the fact text, source URL, and category. The form also includes character count validation to ensure facts are concise and informative.
 
 ### Technologies Used
-React: A JavaScript library for building user interfaces.
-Supabase: A backend-as-a-service providing a real-time database and authentication.
-CSS: Custom styles for the application.
+- React: A JavaScript library for building user interfaces.
+- Supabase: A backend-as-a-service providing a real-time database and authentication.
+- CSS: Custom styles for the application.
