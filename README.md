@@ -4,9 +4,9 @@ FactSphere is an interactive platform where users can share interesting facts ab
 ### Features
 Share Facts
 Users can post facts along with a credible source. The facts are categorized to make it easy for others to find and react to them. The categories include:
-Technology
-Science
-Finance
+- Technology
+- Science
+- Finance
 Society
 Entertainment
 Health
