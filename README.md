@@ -4,10 +4,14 @@ FactSphere is an interactive platform where users can share interesting facts ab
 ### Features
 Share Facts
 Users can post facts along with a credible source. The facts are categorized to make it easy for others to find and react to them. The categories include:
-- Technology - Science
-- Finance - Society
-- Entertainment - Health
-- History - News
+- Technology
+- Science
+- Finance
+- Society
+- Entertainment
+- Health
+- History
+- News
 
 ### React to Facts
 Users can react to posted facts in three ways:
@@ -28,3 +32,5 @@ Users can add new facts by filling out a simple form, which includes fields for 
 - React: A JavaScript library for building user interfaces.
 - Supabase: A backend-as-a-service providing a real-time database and authentication.
 - CSS: Custom styles for the application.
+
+![image](https://github.com/user-attachments/assets/0eae32eb-3cf3-46f0-814f-27de43d52946)
