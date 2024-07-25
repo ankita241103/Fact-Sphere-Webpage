@@ -27,4 +27,5 @@ FactSphere is a dynamic platform where users can share interesting facts across 
 - Validation: The form includes character count validation to ensure facts are concise and informative.
 - Uploading Status: The form indicates when a fact is being uploaded, preventing duplicate submissions.
 
+
 ![image](https://github.com/user-attachments/assets/0eae32eb-3cf3-46f0-814f-27de43d52946)
